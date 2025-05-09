@@ -28,9 +28,9 @@ Sound is a fascinating form of energy that can be converted into various other f
 - NeoPixel GND -> GND on ESP32  
 
 ## Model Images
-![WhatsApp Image 2025-05-09 at 15 40 16_9556145e](https://github.com/user-attachments/assets/ef44a2a2-8996-4d81-87ca-e67d6e1ff201)    ![WhatsApp Image 2025-05-09 at 15 41 38_1cfb7c82](https://github.com/user-attachments/assets/04753559-8b1c-4267-97e1-ec1e72168c71)
 
-*(Add images of the assembled project here)*
+![WhatsApp Image 2025-05-09 at 15 40 16_92c82c0b](https://github.com/user-attachments/assets/a1f8d05c-104d-48f1-bb1d-e716aeb419fb) ![WhatsApp Image 2025-05-09 at 15 41 38_a695dc9a](https://github.com/user-attachments/assets/194c69a4-7123-4205-9db7-1cc2f2213b76)
+
 
 ## Working Principle
 The HW-484 sound sensor detects the surrounding sound and provides an analog signal proportional to the detected sound intensity. The ESP32 reads this analog signal and maps it to the number of active LEDs. The NeoPixel LEDs are then illuminated based on the intensity, ranging from green (low sound) to red (high sound).
