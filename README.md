@@ -29,7 +29,7 @@ Sound is a fascinating form of energy that can be converted into various other f
 
 ## Model Images
 
-![WhatsApp Image 2025-05-09 at 15 40 16_92c82c0b](https://github.com/user-attachments/assets/a1f8d05c-104d-48f1-bb1d-e716aeb419fb) ![WhatsApp Image 2025-05-09 at 15 41 38_a695dc9a](https://github.com/user-attachments/assets/194c69a4-7123-4205-9db7-1cc2f2213b76)
+![Screenshot 2025-05-09 161037](https://github.com/user-attachments/assets/983fee0f-926a-456f-891c-e312d50d426d)
 
 
 ## Working Principle
@@ -43,7 +43,8 @@ Once the circuit is connected and code uploaded, varying sound levels will light
 - **Very High Sound**: Red (4 LEDs)  
 
 ## Testing Video
-*(Include a link to the testing video here)*
+
+https://github.com/user-attachments/assets/be38a210-80f4-40a7-9aa6-56f8ab847adf
 
 ## Conclusion
 The Sound-Based LED Light Bar is an effective project for understanding real-time sound visualization. It demonstrates the use of analog sensors, microcontroller programming, and LED control, making it a great learning project for beginners in electronics.
